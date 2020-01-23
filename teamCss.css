@@ -1,0 +1,77 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+  body{
+      margin: 0px;
+      padding: auto;
+      background :  linear-gradient(to right,#e7e3e5,#a0d5ee);
+
+  }
+ html {
+    box-sizing: border-box;
+    
+ }
+  .column {
+    font-family: inherit;
+    float:left;
+    width: 33.3%;
+    margin: 20px 50px 40px 150px;
+    padding: 0 8px;
+    flex-wrap: wrap;
+    border:30px;
+    outline: thin ridge black;
+    border-radius: 40%;
+    
+
+
+
+  
+  }
+  footer{
+    
+    height: auto;
+    font-size: 15px;
+    text-align: center;
+
+}
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }
+  
+  .card {
+    border: 10px;
+    margin: 20px;
+   
+     
+    box-shadow: rgba(195, 245, 182, 0.589);
+  }
+  
+  .container {
+  
+   
+    justify-content: center;
+     align-items: center;
+     flex-direction: space-around;
+  }
+  
+  
+  
+  .title {
+    color: rgb(170, 168, 168);
+  }
+  
+    .teamH1 {
+    color: rgb(0, 0, 0);
+    font-family: inherit;
+    font-size:50px;
+    margin: 50px;
+    text-align: center;
+  
+  }
+  
+  
+
+   
