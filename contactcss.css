@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background :  linear-gradient(to right,#ffffff,#eccee6);
+    
+
+}
+.img{
+    width: 100%;
+    height:400px;
+    background-size: cover;
+    background-image: url(https://isarta.com/infos/wp-content/uploads/2015/10/geomarketing.jpg);
+    position: center; 
+
+}
+.contactUs{
+    margin: 0 0 0 100px;
+}
+h1{
+    color: rgb(15, 47, 59);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-shadow: 0 20px 15px black ;
+    
+    
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin: 0 40px 0 0;
+
+
+}
+p2{
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+
+
+}
+.color{
+    border: rgb(50, 6, 172);
+}
+.ConContact{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+button{
+    padding: 20px 50px;
+    background-color:#700c70 ;
+    box-shadow: 2px 2px 2px 2px #fff;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 30px;
+    margin: 30px 30px 30px 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    outline: none;}
+    .conDiv2{
+        list-style: none;
+       
+
+    }
+    li{
+        margin: 20px 50px 20px 0;
+        font-size: 20px;
+        font-style: solid;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         
+
+    }
+    input{
+        border: none;
+        border-bottom: 2px solid #700c70 ;
+        padding: 20px;
+        margin: 20px;
+       width: 100%;
+    }
+    footer{
+        width: 100%;
+        height: auto;
+        background-color: rgb(165, 155, 155);
+        text-align: center;
+        
+    }
+
+    @media only screen and (max-width: 770px) {
+        .ConContact{
+            flex-direction: column;
+            width: 60%;
+        }
+        h1{
+            font-size: 35px;
+        }
+        li {
+            margin: 20px 0 10px 0;
+            font-size: 10px;
+        } 
+        p2 {
+            font-size: 10px;
+        }
+            .conDiv2{
+            width: 100%;
+           
+        }
+        footer {
+            font-size: 10px;
+            text-align: center;
+        
+            padding: 0 0 0 20px;       }
+            button {
+                padding: 10px 25px;
+            }
+            .img{
+                height: 150px;
+            }
+        }
+        
+
+      
+      
