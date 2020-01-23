@@ -9,6 +9,31 @@
     align-items: flex-start;
     flex-wrap: wrap;
 }
+
+
+.cont {
+    right: 10px;
+    position: absolute;
+    margin: 20px;
+    
+
+  }
+.topnav a {
+   
+    float: left;
+    color:white; 
+    text-align: center;
+    
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:25px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
 .headabout{
     width: 100%;
     height: 700px;

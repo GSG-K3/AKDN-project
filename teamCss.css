@@ -7,6 +7,30 @@
       background :  linear-gradient(to right,#e7e3e5,#a0d5ee);
 
   }
+
+.cont {
+  position: absolute;
+  margin: 20px;
+  width: 100%;
+ 
+  
+
+}
+.topnav a {
+ right: 10px;
+  float: right;
+  color:black; 
+  text-align: center;
+  justify-content: end;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size:25px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
  html {
     box-sizing: border-box;
     
