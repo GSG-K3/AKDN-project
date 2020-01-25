@@ -1,14 +1,10 @@
-# AKDN-project
-duha<br>
-kholoud<br>
-abood<br>
-nida<br>
-## why 
-to craete protofile for our team talk about all team and how to contact with us and about us 
-## how 
-kholoud create the home page 
-Abood and Duha create the contact and about 
-nidaa creat the team page 
-## what
+##AKDN project
+Team Names :
+kholoud fannoun , RUba Hamed , Abood switi, Nidaa Awawdeh 
+This is our project in week-1 in Gaza-sky Geeks Academy .
+Our project  is to design a portifile website  using HTML and CSS.
+when the client open the page , he should find ingormation about us and see our work and how to connect with us.
+we had two days to complete the project ; in the first day we draw the initial design then  divided  the tasks between us and made a github repistory  to share the files and see our work , then  we started work ; in next day we completed the work and merged our work , made the changes and  push it into Git-hub.
+  
 
-We believe that content and design should go hand-in-hand to create online experiences that capture and hold your audience's attention. 
+ 
