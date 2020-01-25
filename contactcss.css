@@ -41,6 +41,7 @@ body{
 .contactUs{
     margin: 0 0 0 100px;
 }
+
 h1{
     color: rgb(15, 47, 59);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -91,12 +92,15 @@ button{
        
 
     }
+    i{
+        color:#700c70 ;
+    }
     li{
         margin: 20px 50px 20px 0;
         font-size: 20px;
         font-style: solid;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-         
+        
 
     }
     input{
